@@ -1,0 +1,6 @@
+module Pods_XWWidgetSwitfDemo {
+  umbrella header "Pods-XWWidgetSwitfDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
